@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">from Poland</h3>
+All of my repositories are private.
 
 - 🔭 I’m currently working on **Konfigurator**
 
