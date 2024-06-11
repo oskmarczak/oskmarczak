@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi 👋, I'm Oskar
 
-<h1 align="center">Hi 👋, I'm Oskar</h1>
-All of my repositories are private.
+<h3 align="center" All of my repositories are private. </h3>
 
 - 🔭 I’m currently working on **Konfigurator**
 
